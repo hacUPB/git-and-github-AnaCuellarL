@@ -1,7 +1,43 @@
+# Descripción del repositorio git-and-github-AnaCuellarL
+
+Este repositorio contiene varios archivos que estan dispuestos en 3 carpetas:
+
+- docs
+- images
+- src
+
+Estas carpetas representan los documentos del repositorio, el código fuente y algunas imagenes.
+
+# ¿Como clonamos un repositorio?
+
+Para poder utilizar un repositorio que esta en la web (gitHub) en el disco local se debe ingresar o crear un repositorio en la web (o aceptar una asignación en gitHub Classroom) y copiar la URL del repositorio.
+
+![texto](Captura.png)
+
+ Captura de comando **git clone**
+
+Al momento de copiar la URL en la consola (Git Bash o la terminal) y usar el comando **git clone URL** esto clonara automaticamente el repositorio en la ubicación en la que se encuentre al momento de clonar el mismo.
+
+
+
+# Tabla de Contenidos
+
+- [Uso de consola Git Bash](docs/uso_consola.md)
+
+- [Creación de repositorio local](docs/repositorio_local.md)
+
+- [Creación de un repositorio remoto](docs/repositorio_remoto.md)
+
+
+
+
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Ana Sofía Cuéllar Lozano  
+Id.:  000568112
 ---
 # Evaluación
 
