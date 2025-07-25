@@ -1,3 +1,4 @@
-![texto](Captura 2.png)
+![texto](Captura2.png)
+
 
 ![texto](Captura.png)
